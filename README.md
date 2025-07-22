@@ -1,56 +1,88 @@
-<h1 align="left">👋 Olá, eu sou o Bruno Wandermurem</h1>
+<h1 align="center">👋 Olá, eu sou o Bruno Wandermurem</h1>
 
-<p align="left">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Desenvolvedor em formação, apaixonado por tecnologia, programação e inteligência artificial <br>
-🚀 Em constante evolução, com foco em Python, Django, React e SQL
-</p>
+<h3 align="center">Desenvolvedor Fullstack | Python | Java | React | IA</h3>
 
----
-
-<h2 align="left">🧠 Sobre mim</h2>
-
-<p align="left">
-✨ Criando soluções desde 2024<br>
-📚 Atualmente estudando: Python, Django, Inteligência Artificial, React e SQL<br>
-🎯 Objetivo: Tornar-me um desenvolvedor fullstack especialista em IA e sistemas seguros<br>
-🎲 Curiosidade: Tenho formação em Direito e hoje aplico lógica e estratégia jurídica no desenvolvimento de software
-</p>
-
----
-
-<h2 align="left">🔧 Tecnologias que utilizo</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-</div>
-
----
-
-<h2 align="left">🌐 Conecte-se comigo</h2>
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/bruno-wandermurem-83a71a164" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 🚀 Sobre Mim
+
+<p align="left">
+✨ Transformando ideias em código desde 2024<br>
+📚 Estudando: Python, Java, Django, React e IA<br>
+🎓 Formado em Direito + Análise e Desenvolvimento de Sistemas<br>
+💡 Apaixonado por resolver problemas complexos com tecnologia<br>
+⚖️ Aplicando lógica jurídica no desenvolvimento de software
+</p>
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+  
+**Linguagens**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+
+**Backend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+
+**Banco de Dados**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+
+**Ferramentas**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+
+</div>
+
+---
+
+
+
+## 📬 Contato
+
 <p align="center">
-  <i>💡“A tecnologia move o mundo, e eu movo minha carreira com paixão por aprendizado e inovação.”</i>
+  <a href="mailto:brunowandermurem.juris@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5528999071453">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bruno-wandermurem-83a71a164">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Código é poesia lógica que transforma o mundo."</i> 💻✨
 </p>
