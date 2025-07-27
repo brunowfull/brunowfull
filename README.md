@@ -9,7 +9,7 @@
   <a href="mailto:brunowandermurem.juris@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/brunowpy" target="_blank">
+  <a href="https://github.com/brunowfull" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://wa.me/5528999071453" target="_blank">
