@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Bruno Wandermurem</h1>
 
-<h3 align="center">Desenvolvedor Fullstack | Python | Java | React | Inteligência Artificial</h3>
+<h3 align="center">Desenvolvedor Fullstack em formação | Python | Java | React | Inteligência Artificial</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-wandermurem-83a71a164" target="_blank">
