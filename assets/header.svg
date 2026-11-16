@@ -34,7 +34,7 @@
 <rect x=".5" y=".5" width="1279" height="439" rx="14" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
 <path d="M20 38V20H38" fill="none" stroke="#D4D7DC" stroke-opacity=".45" stroke-width="1.2"/><path d="M1242 20H1260V38" fill="none" stroke="#D4D7DC" stroke-opacity=".45" stroke-width="1.2"/><path d="M20 402V420H38" fill="none" stroke="#D4D7DC" stroke-opacity=".45" stroke-width="1.2"/><path d="M1242 420H1260V402" fill="none" stroke="#D4D7DC" stroke-opacity=".45" stroke-width="1.2"/>
 
-<text x="72" y="74" class="lbl">BW <tspan fill="#4A4F57">//</tspan> Direito × Engenharia</text>
+<text x="72" y="74" class="lbl">BW <tspan fill="#4A4F57">//</tspan> Direito × Engenharia de Software</text>
 <text x="1208" y="74" class="lbl" text-anchor="end">OAB/ES 44.902 <tspan fill="#4A4F57">·</tspan> Brasil</text>
 
 <text x="70" y="182" class="name" fill="url(#silver)">Bruno Wandermurem</text>
