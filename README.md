@@ -21,6 +21,7 @@ Advogado criminalista e de Direito Digital que também escreve o código. Trabal
 
 - ⚖️ Pós-graduado em **Direito Penal e Processo Penal** e em **Direito Digital e LGPD**
 - 🏗️ Fundador e desenvolvedor da **NewLex**, infraestrutura de peticionamento eletrônico para escritórios de volume
+- 📊 Criador do **RankingConcursos**, plataforma com mais de 5 mil usuários
 - 🔐 Foco em **proteção de dados, prova digital, segurança e governança de IA**
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
@@ -30,7 +31,7 @@ Advogado criminalista e de Direito Digital que também escreve o código. Trabal
 |---|---|---|
 | **[NewLex](https://newlex.com.br)** | Peticionamento automatizado em PJe, eProc e e-SAJ, com assinatura ICP-Brasil, fila com nova tentativa automática, comprovante de cada protocolo e API. SaaS multi-tenant (RLS), 46 calculadoras jurídicas e assistente de IA. Em produção, com centenas de peticionamentos por mês. | Nuxt/Vue · TypeScript · PostgreSQL · Python/FastAPI · Playwright · Docker |
 | **[Escritório Bruno Wandermurem](https://brunowandermurem.adv.br)** | Site jurídico com SEO local por cidade, conteúdo revisado conforme as regras da OAB e testes automatizados. | Astro · TypeScript · Playwright · Vitest |
-| **Ranking Concursos** | Plataforma para concurseiros com rankings, duelos, flashcards e comunidades. | Next.js · TypeScript · Prisma |
+| **[RankingConcursos](https://rankingconcursos.online)** | Plataforma para concurseiros com **mais de 5 mil usuários**: correção pelo gabarito oficial, rankings com participantes reais e estimativa de nota de corte com faixas de confiança. Login com Google, gamificação, duelos, flashcards e comunidades. | Next.js · TypeScript · Prisma · PostgreSQL |
 
 > A maior parte do código está em repositórios privados de clientes e produtos. Os projetos acima podem ser apresentados em entrevista.
 
@@ -56,6 +57,6 @@ Advogado criminalista e de Direito Digital que também escreve o código. Trabal
 <summary><b>🇺🇸 English</b></summary>
 <br/>
 
-Brazilian attorney (Criminal & Digital Law) and software developer. Founder and developer of **NewLex**, a legaltech that automates electronic court filing across Brazil's PJe, eProc and e-SAJ systems. Postgraduate degrees in Criminal Law & Procedure and in Digital Law & Data Protection. Focus on data protection (LGPD/GDPR), digital evidence, compliance and AI governance.
+Brazilian attorney (Criminal & Digital Law) and software developer. Founder and developer of **NewLex**, a legaltech that automates electronic court filing across Brazil's PJe, eProc and e-SAJ systems, and of **RankingConcursos**, a public-exam ranking platform with 5,000+ users. Postgraduate degrees in Criminal Law & Procedure and in Digital Law & Data Protection. Focus on data protection (LGPD/GDPR), digital evidence, compliance and AI governance.
 
 </details>
