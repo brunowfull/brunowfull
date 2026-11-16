@@ -14,7 +14,7 @@
 <g clip-path="url(#c)"><rect width="640" height="380" fill="url(#sh)"/><defs><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".035" stroke-width="1"/></pattern></defs><rect width="640" height="380" fill="url(#g)"/></g>
 <rect x=".5" y=".5" width="639" height="379" rx="14" fill="none" stroke="#FFFFFF" stroke-opacity=".09"/>
 <path d="M16 30V16H30" fill="none" stroke="#D4D7DC" stroke-opacity=".45" stroke-width="1.2"/><path d="M610 16H624V30" fill="none" stroke="#D4D7DC" stroke-opacity=".45" stroke-width="1.2"/><path d="M16 350V364H30" fill="none" stroke="#D4D7DC" stroke-opacity=".45" stroke-width="1.2"/><path d="M610 364H624V350" fill="none" stroke="#D4D7DC" stroke-opacity=".45" stroke-width="1.2"/>
-<text x="44" y="64" class="lbl">04 <tspan fill="#4A4F57">/</tspan> Atuação</text>
+<text x="44" y="64" class="lbl">06 <tspan fill="#4A4F57">/</tspan> Atuação</text>
 <text x="596" y="64" class="u" text-anchor="end">linkedin.com/in/brunowandermuremadv ↗</text>
 <text x="44" y="124" class="t">Direito × Tecnologia</text>
 <text x="44" y="156" class="m">Advogado · OAB/ES 44.902</text>

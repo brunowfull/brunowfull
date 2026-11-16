@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/brunowandermuremadv"><img src="https://img.shields.io/badge/LinkedIn-15181D?style=for-the-badge&logo=linkedin&logoColor=D4D7DC" alt="LinkedIn"/></a>
 <a href="https://newlex.com.br"><img src="https://img.shields.io/badge/NewLex-15181D?style=for-the-badge&logoColor=D4D7DC" alt="NewLex"/></a>
+<a href="https://recursodemulta.com.br"><img src="https://img.shields.io/badge/RecursoDeMulta-15181D?style=for-the-badge" alt="RecursoDeMulta"/></a>
 <a href="https://rankingconcursos.online"><img src="https://img.shields.io/badge/RankingConcursos-15181D?style=for-the-badge" alt="RankingConcursos"/></a>
 <a href="https://brunowandermurem.adv.br"><img src="https://img.shields.io/badge/Escrit%C3%B3rio-15181D?style=for-the-badge" alt="Escritório"/></a>
 <a href="mailto:brunowandermurem.juris@gmail.com"><img src="https://img.shields.io/badge/E--mail-E5484D?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
@@ -17,8 +18,10 @@ Advogado criminalista e de Direito Digital que também escreve o código. Trabal
 ```text
 formação    Pós em Direito Penal e Processo Penal · Pós em Direito Digital e LGPD
             Análise e Desenvolvimento de Sistemas (em curso)
-produto     NewLex — peticionamento automatizado em todos os tribunais do Brasil
+produto     NewLex — 1.000+ peticionamentos/mês, escritórios de volume em São Paulo
 plataforma  RankingConcursos — 5.000+ usuários
+portal      RecursoDeMulta — 30 mil+ acessos/mês
+crm         Venda-Scale — atendimento de leads 100% automatizado com IA
 foco        proteção de dados · prova digital · segurança · governança de IA
 ```
 
@@ -29,6 +32,8 @@ foco        proteção de dados · prova digital · segurança · governança de
 <p align="center">
 <a href="https://newlex.com.br"><img src="assets/card-newlex.svg" width="49%" alt="NewLex: peticionamento automatizado em PJe, eProc e e-SAJ, em produção em todos os tribunais."/></a>
 <a href="https://rankingconcursos.online"><img src="assets/card-ranking.svg" width="49%" alt="RankingConcursos: plataforma para concurseiros com mais de 5 mil usuários."/></a>
+<a href="https://recursodemulta.com.br"><img src="assets/card-recursodemulta.svg" width="49%" alt="RecursoDeMulta: site e sistema de defesa de multas com mais de 30 mil acessos por mês."/></a>
+<img src="assets/card-vendascale.svg" width="49%" alt="Venda-Scale: CRM para escritórios com atendimento no WhatsApp totalmente automatizado por IA."/>
 <a href="https://brunowandermurem.adv.br"><img src="assets/card-escritorio.svg" width="49%" alt="Escritório Bruno Wandermurem: site jurídico com SEO local e testes automatizados."/></a>
 <a href="https://www.linkedin.com/in/brunowandermuremadv"><img src="assets/card-areas.svg" width="49%" alt="Áreas de atuação: LGPD, governança de IA, prova digital, crimes cibernéticos e compliance."/></a>
 </p>
@@ -58,7 +63,7 @@ foco        proteção de dados · prova digital · segurança · governança de
 <summary><code>// english</code></summary>
 <br/>
 
-Brazilian attorney (Criminal & Digital Law) and software developer. Founder and developer of **NewLex**, a legaltech that automates electronic court filing across Brazil's PJe, eProc and e-SAJ systems, and of **RankingConcursos**, a public-exam ranking platform with 5,000+ users. Postgraduate degrees in Criminal Law & Procedure and in Digital Law & Data Protection. Focus on data protection (LGPD/GDPR), digital evidence, compliance and AI governance. Open to remote roles.
+Brazilian attorney (Criminal & Digital Law) and software developer. Founder and developer of **NewLex**, a legaltech that automates electronic court filing across Brazil's PJe, eProc and e-SAJ systems (1,000+ filings a month for high-volume law firms in São Paulo); **RankingConcursos**, a public-exam ranking platform with 5,000+ users; **RecursoDeMulta**, a traffic-fine defense site and system with 30,000+ monthly visits; and **Venda-Scale**, an AI-driven CRM that runs law-firm lead intake on WhatsApp end to end. Postgraduate degrees in Criminal Law & Procedure and in Digital Law & Data Protection. Focus on data protection (LGPD/GDPR), digital evidence, compliance and AI governance. Open to remote roles.
 
 </details>
 
