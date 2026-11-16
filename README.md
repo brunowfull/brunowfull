@@ -17,7 +17,7 @@ Advogado criminalista e de Direito Digital que também escreve o código. Trabal
 
 ```text
 formação    Pós em Direito Penal e Processo Penal · Pós em Direito Digital e LGPD
-            Análise e Desenvolvimento de Sistemas (em curso)
+            Análise e Desenvolvimento de Sistemas
 produto     NewLex — 1.000+ peticionamentos/mês, escritórios de volume em São Paulo
 plataforma  RankingConcursos — 5.000+ usuários
 portal      RecursoDeMulta — 30 mil+ acessos/mês
